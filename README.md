@@ -3,8 +3,8 @@
 ----------------------------------------------------------
 INTRODUCTION
 ----------------------------------------------------------
-The application Scrum Team Manager lists the users assign to scrum teams and their permissions.
-The information will be printed in the screen. 
+The application Scrum Team Manager lists the users assigned to scrum teams and their permissions.
+The information will be printed on the screen. 
 
 
 ----------------------------------------------------------
